@@ -31,13 +31,8 @@ O sistema utiliza as seguintes variáveis para o processamento:
 * **Se** `saldo_final >= 0`: Exibir que o orçamento está positivo.
 * **Se** `saldo_final < 0`: Exibir alerta de orçamento estourado.
 
-### Regras de Decisão (Fluxo Lógico):
-1. O programa recebe as entradas via teclado.
-2. Realiza a soma das despesas e a subtração da renda.
-3. **Se** `saldo_final >= 0`: Exibe mensagem de saldo positivo.
-4. **Se** `saldo_final < 0`: Exibe alerta de saldo negativo.
-
-[Fluxograma](https://www.canva.com/design/DAG_2O8ZvsE/4rQsAB8IlXAzr6dTXcYrwQ/edit?utm_content=DAG_2O8ZvsE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+### Fluxograma:
+![Fluxograma](ABPJ1-Oraculo_Financeiro/Oráculo Financeiro.drawio.png)
 
 ## Ajuda e Contribuições
 Para obter ajuda, abra uma *Issue* neste repositório.
