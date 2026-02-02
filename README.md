@@ -3,6 +3,8 @@
 ## Descrição do projeto
 O **Oráculo Financeiro** é uma aplicação em Python desenvolvida para auxiliar no planejamento financeiro doméstico. O programa permite que o usuário registre sua renda mensal e categorize seus principais gastos (água, energia, aluguel e cartão), fornecendo um diagnóstico sobre a saúde financeira do mês.
 
+Este é o meu primeiro projeto da disciplina de Python Iniciante integrante da minha jornada no curso técnico de Desenvolvimento Web e Mobile da Escola do Futuro José Luiz Bittencourt, em Goiânia.
+
 ## Como começar a usar
 1.  **Pré-requisitos:** Certifique-se de ter o **Python 3.x** instalado.
 2.  **Instalação:**
@@ -31,11 +33,11 @@ O sistema utiliza as seguintes variáveis para o processamento:
 * **Se** `saldo_final >= 0`: Exibir que o orçamento está positivo.
 * **Se** `saldo_final < 0`: Exibir alerta de orçamento estourado.
 
-### Fluxograma:
-![Fluxograma](ABPJ1-Oraculo_Financeiro/Oráculo Financeiro.drawio.png)
+## Fluxograma do Projeto:
+Para facilitar a compreensão do sistema, elaborei este fluxograma que detalha o caminho que a informação percorre:
 
-## Ajuda e Contribuições
-Para obter ajuda, abra uma *Issue* neste repositório.
+![Fluxograma](Oráculo%20Financeiro.drawio.png))
 
+## Contribuições
 **Mantido por:** Fernanda Matos
 
