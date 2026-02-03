@@ -5,13 +5,29 @@ O **Oráculo Financeiro** é uma aplicação em Python desenvolvida para auxilia
 
 Este é o meu primeiro projeto da disciplina de Python Iniciante integrante da minha jornada no curso técnico de Desenvolvimento Web e Mobile da Escola do Futuro José Luiz Bittencourt, em Goiânia.
 
-## Como começar a usar
-1.  **Pré-requisitos:** Certifique-se de ter o **Python 3.x** instalado.
-2.  **Instalação:**
-    * Faça o download ou clone este repositório.
-    * Navegue até a pasta do projeto.
-4.  **Execução:**
-    * No terminal, execute: `python main.py`
+## Objetivo
+O objetivo é desenvolver um sistema simples e funcional que aplique conceitos básicos de lógica de programação, como entrada de dados, cálculos matemáticos e estruturas condicionais, resultando em uma ferramenta útil para controle de orçamento pessoal.
+
+## Tecnologias Utilizadas
+- Linguagem: Python 3.x
+- Ferramentas: VS Code
+- Modelagem: Draw.io (para o fluxograma)
+
+## Estrutura do Projeto
+- `main.py` → Arquivo principal com a lógica do programa.
+- *`README.md` → Documentação completa do projeto.
+- *`Oráculo Financeiro.drawio.png` → Imagem do fluxograma da aplicação.
+
+## Como Executar o Projeto
+1.  Certifique-se de ter o **Python 3.x** instalado.
+2.  Faça o download ou clone este repositório.
+3.  Navegue até a pasta do projeto.
+4.  Execute o comando: `python main.py`.
+
+## Funcionalidades
+- Entrada de dados para renda e quatro categorias de gastos (água, energia, aluguel e cartão).
+- Cálculo automático do gasto total e do saldo final.
+- Diagnóstico em tempo real: alerta se o orçamento está positivo ou estourado.
 
 ## Lógica e Variáveis
 O sistema utiliza as seguintes variáveis para o processamento:
@@ -38,6 +54,10 @@ Para facilitar a compreensão do sistema, elaborei este fluxograma que detalha o
 
 ![Fluxograma](Oráculo%20Financeiro.drawio.png))
 
-## Contribuições
-**Mantido por:** Fernanda Matos
+## Aprendizados
+- Manipulação de variáveis e tipos de dados em Python.
+- Aplicação de estruturas condicionais (`if/else`) para tomada de decisão.
+- Documentação de projetos e criação de fluxogramas para planejar a lógica antes do código.
 
+## Autores
+**Fernanda Matos** – Desenvolvimento Web e Mobile – Python Iniciante.
